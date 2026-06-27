@@ -154,15 +154,6 @@ define('DB_PASS', '');
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here:
-
-* Homepage
-* Single Post Page
-* Admin Dashboard
-
----
 
 # 🔒 Post Setup Security
 
